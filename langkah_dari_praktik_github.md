@@ -20,5 +20,6 @@ lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
 
+
 ![2](/img/2.png)
 3. Lalu klik Create **Repository**
