@@ -18,4 +18,5 @@ lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 ![tambah](img\1.png)
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
 ![tambah](img\2.png)
+[1]: C:\Users\haris\01-git-github\img\1.png
 3. Lalu klik Create **Repository**
