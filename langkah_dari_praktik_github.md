@@ -17,9 +17,19 @@ lalu untuk mengeceknya bisa dengan menuliskan    `git config --list`
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**\
 ![1](/img/1.png)
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat Repo Private\
-![2](/img/1.2.png)\
+![2](/img/1.2.png)
 3. Lalu klik Create **Repository**
 
+## Clone Repo
+Proses clone adalah proses untuk menduplikasikan remote repo di GitHub ke komputer lokal. Untuk melakukan proses clone, gunakan perintah berikut:
+
+`git clone "isi dengan link repo kalian"`
+
+Lalu ubah Repo menjadi Master/Utama dengan cara menuliskan :
+```
+cd "namaprepo"
+git branch -m main`
+```
 ## Perintah Dasar Github
 * GIT CONFIG\
 Salah satu perintah git yang paling banyak digunakan adalah git config, yang bisa digunakan untuk mengatur konfigurasi tertentu sesuai keinginan pengguna, seperti email, algoritma untuk diff, username, format file, dll. Contohnya, perintah berikut bisa digunakan untuk mengatur email:\
