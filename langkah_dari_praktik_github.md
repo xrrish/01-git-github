@@ -9,7 +9,7 @@
 tuliskan seperti ini di command prompt atau di git bash anda
 
 * git config --global user.name "Nama Anda di GitHub"
-* git config --global user.email email@domain.tld
+* git config --global user.email "email@domain.com"
 
 lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 
@@ -17,3 +17,5 @@ lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
 3. Lalu klik Create **Repository**
+
+<img src="C:\Users\haris\01-git-github\img\1.png">
