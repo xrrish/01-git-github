@@ -17,6 +17,7 @@ lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**
 
 ![1](/img/1.png)
+
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
 
 ![2](/img/2.png)
