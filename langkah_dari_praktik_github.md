@@ -8,8 +8,10 @@
 ## Konfigurasi Github
 tuliskan seperti ini di command prompt atau di git bash anda
 
-* `git config --global user.name "Nama Anda di GitHub"`
-* `git config --global user.email "email@domain.com"`
+```
+git config --global user.name "Nama Anda di GitHub"
+git config --global user.email "email@domain.com"
+```
 
 lalu untuk mengeceknya bisa dengan menuliskan    `git config --list`
 
