@@ -5,6 +5,8 @@
 2. Instal Github bisa klik [disini](https://git-scm.com/downloads), lalu instal seperti biasa
 3. Untuk mengecek github sudah terpasang atau belum bisa dengan menuliskan **"git --version"** di command prompt atau di git bash
 
+---
+
 ### Konfigurasi Github
 tuliskan seperti ini di command prompt atau di git bash anda
 
@@ -12,6 +14,8 @@ tuliskan seperti ini di command prompt atau di git bash anda
 * git config --global user.email "email@domain.com"
 
 lalu untuk mengeceknya bisa dengan menuliskan    `git config --list`
+
+---
 
 ### Mengelola Repository
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**
