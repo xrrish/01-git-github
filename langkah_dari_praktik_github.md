@@ -27,7 +27,7 @@ Proses clone adalah proses untuk menduplikasikan remote repo di GitHub ke komput
 
 Lalu ubah Repo menjadi Master/Utama dengan cara menuliskan :
 ```
-cd "namaprepo"
+cd "namarepo"
 git branch -m main`
 ```
 ## Perintah Dasar Github
