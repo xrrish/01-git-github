@@ -15,8 +15,7 @@ lalu untuk mengeceknya bisa dengan menuliskan **git config --list**
 
 ### Mengelola Repository
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**
-![tambah](img\1.png)
+![1](/img/1.png)
 2. Isikan nama, keterangan, serta lisensi. Jika dikehendaki, bisa membuat repo Private
-![tambah](img\2.png)
-[1]: C:\Users\haris\01-git-github\img\1.png
+![2](/img/2.png)
 3. Lalu klik Create **Repository**
