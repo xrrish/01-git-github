@@ -13,7 +13,7 @@ tuliskan seperti ini di command prompt atau di git bash anda
 
 lalu untuk mengeceknya bisa dengan menuliskan    `git config --list`
 
-## Mengelola Repository
+## Membuat Repository
 1. Klik tanda + pada bagian atas setelah login, pilih **New Repository**
 
 ![1](/img/1.png)
