@@ -102,7 +102,7 @@ Dengan menjalankan peritah ini akan menampilkan daftar commits yang ada di branc
 ```
 •	commit 15f4b6c44b3c8344caasdac9e4be13246e21sadw
 •	Author: Alex Hunter <alexh@gmail.com>
-    Date: Mon Oct 1 12:56:29 2016 -0600
+     Date: Mon Oct 1 12:56:29 2016 -0600
 ```
 ##### GIT RESET
 Untuk me-reset index dan bekerja dengan kondisi commit paling baru, gunakan perintah git reset:\
